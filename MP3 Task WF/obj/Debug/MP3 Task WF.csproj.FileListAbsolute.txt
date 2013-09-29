@@ -1,0 +1,18 @@
+\\phs-file2\studentdocs$\intake2008\08bents\documents\visual studio 2012\Projects\MP3 Task WF\MP3 Task WF\bin\Debug\MP3 Task WF.exe.config
+\\phs-file2\studentdocs$\intake2008\08bents\documents\visual studio 2012\Projects\MP3 Task WF\MP3 Task WF\bin\Debug\MP3 Task WF.exe
+\\phs-file2\studentdocs$\intake2008\08bents\documents\visual studio 2012\Projects\MP3 Task WF\MP3 Task WF\bin\Debug\MP3 Task WF.pdb
+\\phs-file2\studentdocs$\intake2008\08bents\documents\visual studio 2012\Projects\MP3 Task WF\MP3 Task WF\obj\Debug\MP3 Task WF.csprojResolveAssemblyReference.cache
+\\phs-file2\studentdocs$\intake2008\08bents\documents\visual studio 2012\Projects\MP3 Task WF\MP3 Task WF\obj\Debug\MP3_Task_WF.Form1.resources
+\\phs-file2\studentdocs$\intake2008\08bents\documents\visual studio 2012\Projects\MP3 Task WF\MP3 Task WF\obj\Debug\MP3_Task_WF.Properties.Resources.resources
+\\phs-file2\studentdocs$\intake2008\08bents\documents\visual studio 2012\Projects\MP3 Task WF\MP3 Task WF\obj\Debug\MP3 Task WF.csproj.GenerateResource.Cache
+\\phs-file2\studentdocs$\intake2008\08bents\documents\visual studio 2012\Projects\MP3 Task WF\MP3 Task WF\obj\Debug\MP3 Task WF.exe
+\\phs-file2\studentdocs$\intake2008\08bents\documents\visual studio 2012\Projects\MP3 Task WF\MP3 Task WF\obj\Debug\MP3 Task WF.pdb
+C:\Users\samtb_000\Documents\Visual Studio 2012\Projects\MP3 Task WF\MP3 Task WF\bin\Debug\MP3 Task WF.exe.config
+C:\Users\samtb_000\Documents\Visual Studio 2012\Projects\MP3 Task WF\MP3 Task WF\obj\Debug\MP3 Task WF.exe
+C:\Users\samtb_000\Documents\Visual Studio 2012\Projects\MP3 Task WF\MP3 Task WF\obj\Debug\MP3 Task WF.pdb
+C:\Users\samtb_000\Documents\Visual Studio 2012\Projects\MP3 Task WF\MP3 Task WF\bin\Debug\MP3 Task WF.exe
+C:\Users\samtb_000\Documents\Visual Studio 2012\Projects\MP3 Task WF\MP3 Task WF\bin\Debug\MP3 Task WF.pdb
+C:\Users\samtb_000\Documents\Visual Studio 2012\Projects\MP3 Task WF\MP3 Task WF\obj\Debug\MP3 Task WF.csprojResolveAssemblyReference.cache
+C:\Users\samtb_000\Documents\Visual Studio 2012\Projects\MP3 Task WF\MP3 Task WF\obj\Debug\MP3_Task_WF.Form1.resources
+C:\Users\samtb_000\Documents\Visual Studio 2012\Projects\MP3 Task WF\MP3 Task WF\obj\Debug\MP3_Task_WF.Properties.Resources.resources
+C:\Users\samtb_000\Documents\Visual Studio 2012\Projects\MP3 Task WF\MP3 Task WF\obj\Debug\MP3 Task WF.csproj.GenerateResource.Cache
