@@ -16,3 +16,12 @@ C:\Users\samtb_000\Documents\Visual Studio 2012\Projects\MP3 Task WF\MP3 Task WF
 C:\Users\samtb_000\Documents\Visual Studio 2012\Projects\MP3 Task WF\MP3 Task WF\obj\Debug\MP3_Task_WF.Form1.resources
 C:\Users\samtb_000\Documents\Visual Studio 2012\Projects\MP3 Task WF\MP3 Task WF\obj\Debug\MP3_Task_WF.Properties.Resources.resources
 C:\Users\samtb_000\Documents\Visual Studio 2012\Projects\MP3 Task WF\MP3 Task WF\obj\Debug\MP3 Task WF.csproj.GenerateResource.Cache
+D:\Projects\MP3-File-Information\MP3 Task WF\bin\Debug\MP3 Task WF.exe.config
+D:\Projects\MP3-File-Information\MP3 Task WF\obj\Debug\MP3 Task WF.exe
+D:\Projects\MP3-File-Information\MP3 Task WF\obj\Debug\MP3 Task WF.pdb
+D:\Projects\MP3-File-Information\MP3 Task WF\bin\Debug\MP3 Task WF.exe
+D:\Projects\MP3-File-Information\MP3 Task WF\bin\Debug\MP3 Task WF.pdb
+D:\Projects\MP3-File-Information\MP3 Task WF\obj\Debug\MP3 Task WF.csprojResolveAssemblyReference.cache
+D:\Projects\MP3-File-Information\MP3 Task WF\obj\Debug\MP3_Task_WF.Form1.resources
+D:\Projects\MP3-File-Information\MP3 Task WF\obj\Debug\MP3_Task_WF.Properties.Resources.resources
+D:\Projects\MP3-File-Information\MP3 Task WF\obj\Debug\MP3 Task WF.csproj.GenerateResource.Cache
