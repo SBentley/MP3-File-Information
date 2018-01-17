@@ -27,7 +27,7 @@ namespace MP3_Task_WF
         }
         
         static long bitRateCount = 0, totalBitRate = 0;
-        static int[] freqA = { 44100, 48000, 32000, 00001 };
+        static int[] freqA = { 44100, 48000, 32000, 00001 };//The last frequency is reserved
         static int[] bitrateA = {0,32000,40000,48000,56000,64000,80000,96000,
                                  112000,128000,160000,192000,224000,256000,320000,0};
         static int frequency = 0; // Also known as sample rate
@@ -51,7 +51,7 @@ namespace MP3_Task_WF
                     numberofFrames++;
                     // 240 in binary is 0b11110000 use AND operator to ensure only leftmost 4 bits can have a value of 1.
                     // See http://wiki.hydrogenaud.io/images/e/ee/Mp3filestructure.jpg (We want header bits 17-20)
-                    // Bitshift right 4 bits to get the value of the Bit Rate
+                    // Bitshift right 4 bits to get the index of the bitrate
                     int bitrate = bitrateA[(headerByte3 & 240) >> 4];
                     totalBitRate += bitrate;
                     bitRateCount++;
